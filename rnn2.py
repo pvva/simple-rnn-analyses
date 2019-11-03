@@ -73,8 +73,8 @@ idx = [char2int[c] for c in text]
 
 epochs = 60
 seq_size = 42
-hidden_size = 4096
-batch_size = 16
+hidden_size = 512
+batch_size = 64
 
 net = CharRnn(len(char2int), seq_size, hidden_size, batch_size).cuda()
 lr = 1e-3
