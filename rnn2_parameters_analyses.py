@@ -5,7 +5,7 @@ import numpy as np
 from mpl_toolkits import mplot3d
 import matplotlib.pyplot as plt
 
-PATH = "C:/Dev/data/nietzsche.txt"
+PATH = "</path/to/>/nietzsche.txt"
 
 
 def detach_from_history(h):

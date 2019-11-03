@@ -4,7 +4,7 @@ import torch.nn.functional as F
 import numpy as np
 
 
-PATH = "C:/Dev/data/nietzsche.txt"
+PATH = "</path/to/>/nietzsche.txt"
 
 
 def detach_from_history(h):
