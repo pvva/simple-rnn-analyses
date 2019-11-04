@@ -6,7 +6,7 @@ If you want to dive into details of RNNs, then check these links:
 
 PyTorch version used: 1.2.0
 
-All networks in this repo are analysed from text generation point if view.
+All networks in this repo are analysed from text generation point of view.
 
 These networks use character based generation approach.
 
